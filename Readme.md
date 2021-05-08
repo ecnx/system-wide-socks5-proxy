@@ -21,6 +21,7 @@ Configure iptables:
 iptables -F
 iptables -t nat -F
 iptables -t nat -A OUTPUT -p tcp --dport 80 -j DNAT --to-destination 127.0.0.1:8082
+iptables -t nat -A OUTPUT -p tcp --dport 443 -j DNAT --to-destination 127.0.0.1:8082
 ```
 Finally check results:
 ```
