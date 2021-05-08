@@ -4,7 +4,7 @@ To make every program on Desktop connect to ports 80 and 443 via proxy.
 
 Programs
 --------
-Two programs axproxy and vsocks available here will be needed
+Two programs axproxy and vsocks available here will be needed.
 
 How to?
 -------
