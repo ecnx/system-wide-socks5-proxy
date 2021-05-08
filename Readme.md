@@ -34,5 +34,5 @@ See sockscrypt (another project here) for more information.
 
 What about DNS?
 ---------------
-Try using DNS over TLS (for example with stubby) and tunnel port 53 too.
-Otherwise DNS traffic will not go through the Socks-5 Proxy.
+Try using DNS over TLS (for example with stubby) and tunnel port 53 too.  
+Otherwise DNS traffic will not go through the Socks-5 Proxy.  
